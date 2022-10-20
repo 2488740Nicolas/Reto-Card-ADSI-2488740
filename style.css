@@ -16,7 +16,7 @@ body {
   width: 25rem;
   height: 15rem;
   border-radius: 10px;
-  background: linear-gradient(-45deg, #1e4577, #08244a, rgb(230, 230, 230));
+  background: linear-gradient(-45deg, #1e4577, /*#08244a*/ #7ba47b, rgb(230, 230, 230));
   border: solid #fff 2px;
   display: flex;
   flex-direction: column;
